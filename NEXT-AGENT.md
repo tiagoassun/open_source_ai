@@ -1,7 +1,7 @@
 # NEXT-AGENT.md
 
 Fonte de intenção e escopo: meta-repo
-`/d/Docs Locais/Git/__Confg-Projetos/projetos/18-open_source_ai/NEXT-AGENT.md`
+`/d/Docs Locais/Git/__Confg-Projetos/projetos/02-open_source_ai/NEXT-AGENT.md`
 
 Leia **esse** arquivo (e `AGENTS.md` / `SPEC.md` / `MVP.md` / `ROADMAP.md` da mesma pasta) antes de editar aqui.
 

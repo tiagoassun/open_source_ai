@@ -2,9 +2,9 @@
 
 Gerenciador local de modelos. A interface fala só com um Nó MAIN. Cada máquina que cede GPU ou RAM roda um agente sem UI.
 
-- **Tipo:** lateral (software). Não compete com o ranking 1-12 nem com os slots A/B/C.
+- **Tipo:** prioridade 2. Não ocupa slot A, B nem C até o WIP mudar.
 - **Repo:** [tiagoassun/open_source_ai](https://github.com/tiagoassun/open_source_ai)
-- **Intenção (meta-repo):** `/d/Docs Locais/Git/__Confg-Projetos/projetos/18-open_source_ai/`
+- **Intenção (meta-repo):** `/d/Docs Locais/Git/__Confg-Projetos/projetos/02-open_source_ai/`
 
 ## Para quê serve
 

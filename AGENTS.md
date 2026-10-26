@@ -2,9 +2,9 @@
 
 ## Contexto
 
-- **Lateral** (fora do ranking 1-12): não compete com backlog de produto nem com slots A/B/C.
+- **Prioridade 2** no ranking. Não ocupa slot A, B nem C até o WIP mudar.
 - Path: `/d/Docs Locais/Git/open_source_ai`
-- Intenção: `/d/Docs Locais/Git/__Confg-Projetos/projetos/18-open_source_ai/`
+- Intenção: `/d/Docs Locais/Git/__Confg-Projetos/projetos/02-open_source_ai/`
 - Gerenciador local de modelos. Interface só no Nó MAIN. Agente headless nas máquinas que cedem recurso.
 - Não é fork do Jan. Sem API comercial de chat.
 - Agents Window pode implementar com pedido explícito, sem roubar OSDP.
@@ -13,7 +13,7 @@
 
 1. `/d/Docs Locais/Git/__Confg-Projetos/PRIORIDADE.md` + `WIP.md` + `CONVENCOES.md`
 2. `/d/Docs Locais/Git/__Confg-Projetos/LINGUA-PT-BR.md` + `FAZER-CERTO-PRIMEIRA-VEZ.md`
-3. Pasta do meta `projetos/18-open_source_ai/`: `AGENTS.md`, `NEXT-AGENT.md`, `SPEC.md`, `MVP.md`, `ROADMAP.md`
+3. Pasta do meta `projetos/02-open_source_ai/`: `AGENTS.md`, `NEXT-AGENT.md`, `SPEC.md`, `MVP.md`, `ROADMAP.md`
 4. Neste repo: `NEXT-AGENT.md` (ponte) e `README.md`
 
 ## Git
